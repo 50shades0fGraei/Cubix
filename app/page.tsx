@@ -1,4 +1,4 @@
-import { CubeNavigator } from "Cubix/components/cube-navigator"
+exportavigator { CubeNavigator } from "Cubix/components/cube-navigator.tsx"
 
 export default function Home() {
   return (
