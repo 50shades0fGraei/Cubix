@@ -1,4 +1,4 @@
-import { CubeNavigator } from "@/components/cube-navigator"
+import { CubeNavigator } from "Cubix/components/cube-navigator"
 
 export default function Home() {
   return (
